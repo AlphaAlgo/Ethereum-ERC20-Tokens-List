@@ -1,40 +1,47 @@
 {
-  "name": "BooSwap",
-  "logoURI": "",
-  "keywords": [
-    "booswap",
-    "defi"
-  ],
-  "timestamp": "2020-09-03T12:37:57.000+00:00",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "name": "Compound USD Coin",
-      "symbol": "cUSDC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-      "name": "Compound Dai",
-      "symbol": "cDAI",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
-    }
-  ],
+  "name": "booswap",
+  "timestamp": "2020-10-19T21:50:24+00:00",
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 1,
+    "minor": 0,
     "patch": 0
-  }
+  },
+  "keywords": ["booswap", "default", "list"],
+  "tokens": [{
+    "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+    "chainId": 1,
+    "name": "Gastoken.io2",
+    "symbol": "GST2",
+    "decimals": 2,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x0000000000b3f879cb30fe243b4dfee438691c04.png"
+  }, {
+    "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+    "chainId": 1,
+    "name": "ChaiToken",
+    "symbol": "CHAI",
+    "decimals": 18,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x06af07097c9eeb7fd685c692751d5c66db49c215.png"
+  }, {
+    "address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+    "chainId": 1,
+    "name": "CompoundBasicAttentionToken",
+    "symbol": "cBAT",
+    "decimals": 8,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e.png"
+  }, {
+    "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+    "chainId": 1,
+    "name": "CompoundSai",
+    "symbol": "cSAI",
+    "decimals": 8,
+    "logoURI": "https://1inch.exchange/assets/tokens/0xf5dce57282a584d2746faf1593d3121fcac444dc.png"
+  }, {
+    "address": "0x0000852600CEB001E08e00bC008be620d60031F2",
+    "chainId": 1,
+    "name": "TrueHKD",
+    "symbol": "THKD",
+    "decimals": 18,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x0000852600ceb001e08e00bc008be620d60031f2.png"
+  }],
+  "logoURI": "https://1inch.exchange/assets/logo.png"
 }
